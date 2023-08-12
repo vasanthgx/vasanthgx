@@ -1,17 +1,17 @@
-- name: GitHub - Activity - Readme
-  # You may pin to the exact commit or the version.
-  # uses: jamesgeorge007/github-activity-readme@21d9a864ea8f6031b1a5651933187b8ed14266f3
-  uses: jamesgeorge007/github-activity-readme@v0.4.0
-  with:
-    # Your GitHub username
-    GH_USERNAME: # optional, default is ${{ github.repository_owner }}
-    # Name of the committer
-    COMMIT_NAME: # optional, default is github-actions[bot]
-    # Email of the committer
-    COMMIT_EMAIL: # optional, default is 41898282+github-actions[bot]@users.noreply.github.com
-    # Commit message used while committing to the repo
-    COMMIT_MSG: # optional, default is :zap: Update README with the recent activity
-    # The maximum number of lines populated in your readme file
-    MAX_LINES: # optional, default is 5
-    # The file location to write changes to
-    TARGET_FILE: # optional, default is README.md
+name: Update README
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    name: Update this repo's README with recent activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
