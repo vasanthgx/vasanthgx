@@ -3,7 +3,7 @@
 
 ## Welcome to my tech universe! 🚀
 
-With a two-decade long love affair with technology, I've traversed the realms of programming languages like R, Python, Java, JavaScript, HTML, and CSS, while crafting intricate worlds with frameworks like React JS. My journey has been fueled by an insatiable passion for AI/ML and web development, where I've been nurturing the seeds of innovation and creativity
+With a two-decade long love affair with technology, I've traversed the realms of programming languages like **R, Python, Java, JavaScript, HTML, and CSS**, while crafting intricate worlds with frameworks like **React JS**. My journey has been fueled by an insatiable passion for **AI/ML and web development**, where I've been nurturing the seeds of innovation and creativity
 
 As a dedicated member of the open-source community, I embrace the collaborative spirit that fuels our digital cosmos. Through my GitHub contributions, I aspire to weave my code into the fabric of progress, crafting elegant solutions, and leaving behind a trail of learning for those who embark on similar quests.
 
