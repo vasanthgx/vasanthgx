@@ -25,3 +25,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=vasanthgx&show_icons=true&theme=tokyonight" 
+/>
+
+<!--
+| <a href="https://github.com/vasanthgx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vasanthgx&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vasanth's github stats" /></a> | <a href="https://github.com/vasanthgx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanthgx&layout=compact&theme=buefy&hide_border=true" /></a> |
+-->
