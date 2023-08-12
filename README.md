@@ -1,6 +1,6 @@
 ### Hi there friends I am Vasanth Gopal👋
 
-
+![falls](falls2.png)
 ## Welcome to my tech universe! 🚀
 
 With a two-decade long love affair with technology, I've traversed the realms of programming languages like **R, Python, Java, JavaScript, HTML, and CSS**, while crafting intricate worlds with frameworks like **React JS**. My journey has been fueled by an insatiable passion for **AI/ML and web development**, where I've been nurturing the seeds of innovation and creativity
