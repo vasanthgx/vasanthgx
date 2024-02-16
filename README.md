@@ -1,12 +1,18 @@
 ### Hi there friends I am Vasanth Gopal👋
 
+
+<!---
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" align='right'>
 <br><br>
+--->
 
 <!---
 [![falls](falls2.png)]: 
 --->
 ## Welcome to my tech universe! 🚀
+
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" align='right'>
+<br><br>
 
 With a two-decade long love affair with technology, I've traversed the realms of programming languages like **R, Python, Java, JavaScript, HTML, and CSS**, while crafting intricate worlds with frameworks like **React JS**. My journey has been fueled by an insatiable passion for **AI/ML and web development**, where I've been nurturing the seeds of innovation and creativity
 
