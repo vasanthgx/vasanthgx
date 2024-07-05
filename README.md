@@ -43,6 +43,13 @@ Here are some ideas to get you started:
 ## Technologies
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasanthgx&show_icons=true&locale=en&layout=compact" alt="vasanth" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasanthgx&show_icons=true&locale=en" alt="aaush-raj" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasanthgx&" alt="vasanth" /></p>
+
 <img 
    src="https://github-readme-stats.vercel.app/api?username=vasanthgx&show_icons=true&theme=tokyonight" 
 />
