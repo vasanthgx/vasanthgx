@@ -2,17 +2,7 @@
 
 
 
-<!---
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
---->
-<!---
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" align='right'>
-<br><br>
---->
 
-<!---
-[![falls](falls2.png)]: 
---->
 ## Welcome to my tech universe! 🚀
 
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" align='right'>
@@ -46,14 +36,15 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasanthgx&show_icons=true&locale=en&layout=compact" alt="vasanth" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasanthgx&show_icons=true&locale=en" alt="aaush-raj" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasanthgx&show_icons=true&locale=en" alt="vasanth" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasanthgx&" alt="vasanth" /></p>
 
+<!--
 <img 
    src="https://github-readme-stats.vercel.app/api?username=vasanthgx&show_icons=true&theme=tokyonight" 
 />
-
+-->
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vasanthgx.vasanthgx)
 
 <!--
