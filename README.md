@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasanthgx&" alt="vasanth" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vasanthgx)](https://git.io/streak-stats)
+
 <!--
 <img 
    src="https://github-readme-stats.vercel.app/api?username=vasanthgx&show_icons=true&theme=tokyonight" 
