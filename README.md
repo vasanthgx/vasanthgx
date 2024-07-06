@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vasanthgx)](https://git.io/streak-stats)
 
-<!--
+
 <img 
    src="https://github-readme-stats.vercel.app/api?username=vasanthgx&show_icons=true&theme=tokyonight" 
 />
--->
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vasanthgx.vasanthgx)
 
 <!--
